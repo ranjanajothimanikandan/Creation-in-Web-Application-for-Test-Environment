@@ -40,10 +40,12 @@ test.php:
 ```
 ## OUTPUT
 Terminal
-![t](https://github.com/user-attachments/assets/1783c6de-b971-4484-8006-b87f7e87a755)
+![t](https://github.com/user-attachments/assets/c8fb0589-ff30-4e3d-a406-69660069c12f)
+
 
 Webside
- ![w](https://github.com/user-attachments/assets/664934b0-b8a3-40d2-96ba-fbca9ef9d617)
+![w](https://github.com/user-attachments/assets/e19ed4e4-9a74-4dc8-81c2-ff54c4188284)
+
 
 ## RESULT
  
